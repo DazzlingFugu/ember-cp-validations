@@ -34,4 +34,3 @@ export default class Options {
     return OptionsObject.create(createParams, options);
   }
 }
-
